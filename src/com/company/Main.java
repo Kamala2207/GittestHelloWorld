@@ -6,6 +6,8 @@ public class Main {
 	// write your code here
         System.out.println("hello world ! from github.com..");
         System.out.print("Kamala Lama");
+        System.out.print("Welcome To IT Sutra");
+
         //System.out.println("Java Automation\n");
 
         /*
